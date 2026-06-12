@@ -17,8 +17,8 @@ The script specifically processes the small hidden files that are downloaded to 
 
 1. Ensure you have previously added the desired fonts via the official Adobe Fonts website by clicking "Add Family".
 2. Clone this repository to your local machine.
-3. Make the script executable: `chmod +x install_fonts.sh`
-4. Run the script: `./install_fonts.sh`
+3. Make the script executable: `chmod +x AdobeDownloader.sh`
+4. Run the script: `./AdobeDownloader.sh`
 
 ## Prerequisites
 
@@ -70,8 +70,8 @@ Le script traite spécifiquement les petits fichiers cachés qui sont téléchar
 
 1. Assurez-vous d'avoir préalablement ajouté les polices désirées via le site officiel Adobe Fonts en cliquant sur "Ajouter la famille".
 2. Clonez ce dépôt sur votre machine locale.
-3. Rendez le script exécutable : `chmod +x install_fonts.sh`
-4. Exécutez le script : `./install_fonts.sh`
+3. Rendez le script exécutable : `chmod +x AdobeDownloader.sh`
+4. Exécutez le script : `./AdobeDownloader.sh`
 
 ## Prérequis
 
